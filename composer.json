@@ -1,0 +1,12 @@
+{
+    "name": "gladiator/model",
+    "authors": [
+        {
+            "name": "youssef lakhdar",
+            "email": "lakhdar.y@gmail.com"
+        }
+    ],
+    "require": {
+        "nette/robot-loader":"v3.0.3"
+    }
+}
